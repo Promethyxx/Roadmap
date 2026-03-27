@@ -6,11 +6,15 @@
 * 🎵 **Audio**
 * 📄 **Doc**
 * 🏠 **Main**
+* ⌨️ **OxyCLI**
 * 💻 **OxyDesk**
 * 🖼️ **Pic**
 * ✏️ **Rename**
 * 🎬 **Video**
 * ⚙️ **Settings**
+* 🌐 **Translation**
+
+## **🛍️ Oxyshop**
 
 ## **🖼️ Oxywall**
 
@@ -23,21 +27,13 @@
 	* Update
 * 🏬 **Flathub**
     * Video demo
-* ⌨️ **OxyCLI**
-    * Update
-* 🌐 **Translation**
-    * Update
-* 🧑‍💻 **Binaries**
-    * Try to do without ff and mkvtoolnix
-
-## **🛍️ Oxyshop**
-- Refactor to Rust / SLint
 ---
 
 # 🟡 NEXT
 ### **🚀 Oxyon**
 * 🔍 **Scrap**
     * Search improvement
+	* TV Shows
 ---
 
 # 🔵 LATER
@@ -48,6 +44,8 @@
    - Main profile
 
 ## **🚀 Oxyon**
+* 🧑‍💻 **Binaries**
+    * Try to do without ff and mkvtoolnix
 * 🏷️ **Tag**
     * Add Mp3tag features
 * 🛠️ **Tools**
